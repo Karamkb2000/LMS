@@ -1,0 +1,37 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/Highlighting/HighlightingSourceSnapshotLocation/@EntryValue">C:\Users\Karam Bataineh\AppData\Local\JetBrains\Rider2024.1\resharper-host\temp\Rider\vAny\CoverageData\_LMS.-511204069\Snapshot\snapshot.utdcvr</s:String>
+	
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=06a73c82_002Db7cd_002D45a3_002D8f69_002Dbf2d87a08440/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="ManageBooks_ShouldAddBook" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::4BBBE0B5-CDB3-49EA-9D4E-DA40EFC9651C::net8.0::LMS_PresentationTest.ProgramTest.ManageBooks_ShouldAddBook&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::57E66D11-E26F-44B4-82D3-7052B55C1A5B::net8.0::ApplicationTest.LibraryServiceTests.ViewBooks_ShouldReturnEmptyList_WhenExceptionIsThrown&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9ab9cd9a_002Dab43_002D4700_002D83ef_002D80fa87878323/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Run_ShouldInvokeLoadData" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::4BBBE0B5-CDB3-49EA-9D4E-DA40EFC9651C::net8.0::LMS_PresentationTest.ProgramTest.Run_ShouldInvokeLoadData&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	</wpf:ResourceDictionary>

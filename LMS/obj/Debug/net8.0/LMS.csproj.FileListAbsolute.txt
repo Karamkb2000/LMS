@@ -1,0 +1,7 @@
+C:\Users\Karam Bataineh\Desktop\final4\LMS\LMS\bin\Debug\net8.0\.msCoverageExtensionSourceRootsMapping_LMS
+C:\Users\Karam Bataineh\Desktop\final4\LMS\LMS\bin\Debug\net8.0\CoverletSourceRootsMapping_LMS
+C:\Users\Karam Bataineh\Desktop\final4\LMS\LMS\obj\Debug\net8.0\LMS.csproj.AssemblyReference.cache
+C:\Users\Karam Bataineh\Desktop\final4\LMS\LMS\obj\Debug\net8.0\LMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karam Bataineh\Desktop\final4\LMS\LMS\obj\Debug\net8.0\LMS.AssemblyInfoInputs.cache
+C:\Users\Karam Bataineh\Desktop\final4\LMS\LMS\obj\Debug\net8.0\LMS.AssemblyInfo.cs
+C:\Users\Karam Bataineh\Desktop\final4\LMS\LMS\obj\Debug\net8.0\LMS.csproj.CoreCompileInputs.cache
